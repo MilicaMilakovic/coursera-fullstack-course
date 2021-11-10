@@ -73,3 +73,9 @@ p{
         margin: 0 auto 15px;
     }
 }
+@media (max-width: 479px){
+    #text-wrapper{
+        width: 280px;
+        margin: 0 auto 15px;
+    }
+}

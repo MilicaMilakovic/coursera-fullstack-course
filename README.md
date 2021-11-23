@@ -1,4 +1,4 @@
-# coursera-fullstack-course
+# HTML, CSS, and Javascript for Web Developers
 
 
 - <a href="https://milicamilakovic.github.io/coursera-fullstack-course/module2_solution/" target="_blank" > Module 2 Solution <a/>
